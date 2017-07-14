@@ -1,0 +1,29 @@
+/*
+ *
+ *
+ *
+ * Joris Verschaeve
+ *
+ *
+ *
+ */
+
+#ifndef GOKSTAD_BOUNDARY_H
+#define GOKSTAD_BOUNDARY_H
+
+#include "lines.h"
+#include "lines.hh"
+
+namespace gokstad {
+
+// basically a collection of lines
+class Boundary2D 
+{
+public: 
+
+
+}; 
+
+} // namespace gokstad
+
+#endif

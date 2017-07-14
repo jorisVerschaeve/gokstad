@@ -1,0 +1,27 @@
+/*
+ *
+ *
+ *
+ * Joris Verschaeve
+ *
+ *
+ *
+ */
+
+#ifndef GOKSTAD_LINES_H
+#define GOKSTAD_LINES_H
+
+#include "../Functions/functions.h"
+
+namespace gokstad {
+
+template<typename U>
+class Line : public Function1D<U,double>
+{
+public:
+
+}
+
+}
+
+#endif

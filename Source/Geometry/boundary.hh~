@@ -1,0 +1,31 @@
+/*
+ *
+ *
+ *
+ * Joris Verschaeve
+ *
+ *
+ *
+ */
+
+#ifndef GOKSTAD_BOUNDARY_HH
+#define GOKSTAD_BOUNDARY_HH
+
+#include "boundary.h"
+
+namespace gokstad {
+
+Boundary2D::Boundary2D(std::vector< const Lines<Point2D>* > boundaryArray)
+  : array(boundaryArray)
+{
+
+}
+
+Boundary2D::getSize() const
+{
+
+}
+
+} // namespace gokstad
+
+#endif

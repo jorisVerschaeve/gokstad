@@ -1,0 +1,21 @@
+/*
+ *
+ *
+ *
+ * Joris Verschaeve
+ *
+ *
+ *
+ */
+
+#ifndef GOKSTAD_LINES_H
+#define GOKSTAD_LINES_H
+
+#include "lines.h"
+
+namespace gokstad {
+
+
+} // namespace gokstad
+
+#endif
